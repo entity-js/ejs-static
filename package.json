@@ -1,0 +1,19 @@
+{
+  "name": "ejs-static",
+  "description": "Provides 'static' utility.",
+  "keywords": [
+    "EntityJS - Utilities",
+    "Static"
+  ],
+  "author": "Orgun109uk <orgun109uk@gmail.com> (http://my-site.com/)",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/entity-js/ejs-static.git"
+  },
+  "scripts": {
+    "test": "mocha ./tests/",
+    "eslint": "eslint index.js ./lib ./tests",
+    "jshint": "jshint index.js ./lib ./tests"
+  }
+}
